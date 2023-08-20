@@ -1,0 +1,3 @@
+# OpenClassroom
+That repository contains every lessons made with OpenClassroom.
+I learned how to use git, some languages...
